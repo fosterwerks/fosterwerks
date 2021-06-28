@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @fosterwerks
+- 👋 Hi, I’m Craig. @fosterwerks is my username and also the name under which I attribute any creation I make
 - 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... lua, git, UML, Java, Prolog, Perl, regexp, and the Mudlet client
-- 💞️ I’m looking to collaborate on ... 
+- 🌱 I’m currently learning ... Kotlin, lua, git, Prolog, Perl, regexp, and the Mudlet client
+- 💞️ I’m looking to collaborate on ... anything! I have no experience working on a project with someone else, but would LOVE to try an help!
 - 📫 How to reach me ...
 
 <!---
